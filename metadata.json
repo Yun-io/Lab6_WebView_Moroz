@@ -1,0 +1,6 @@
+{
+  "name": "TrawelWay - Туристическое агентство",
+  "description": "Официальный сайт турагентства TrawelWay: поиск и бронирование горящих туров Все включено, каталог направлений и контакты офисов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
